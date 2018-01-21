@@ -17,3 +17,5 @@ To call the API i have used the npm module called [request](https://www.npmjs.co
 Here is a screen-shot of the output.
 
 ![Screenshot](https://github.com/roshan139154/NodeJs-WeatherApp/blob/master/Screenshot/Output_Screenshot.png)
+
+You can also call this script from an HTML page, in your website. 😊
