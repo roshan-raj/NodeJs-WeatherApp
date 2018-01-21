@@ -15,3 +15,5 @@ To call the API i have used the npm module called [request](https://www.npmjs.co
 > npm install request --save
 
 Here is a screen-shot of the output.
+
+![Screenshot](https://github.com/roshan139154/NodeJs-WeatherApp/blob/master/Screenshot/Output_Screenshot.png)
