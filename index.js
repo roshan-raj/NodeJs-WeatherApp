@@ -10,7 +10,7 @@ req.question("Enter your City Name: ", function(answer) {
 //Taking input from user 
 
 let apiKey = '******************************'; 
-//Enter your API Key here (Replae '***'s with your API Key
+//Enter your API Key here (Replace '***'s with your API Key)
 
 let url = `http://api.openweathermap.org/data/2.5/weather?q=${answer}&units=imperial&appid=${apiKey}` 
 //The URL used to make the HTTP request, '?' indicates the start of the Query. These are set of Key & Values seperated by a '='. Different Keys & Values pair are seperated by a '&'
